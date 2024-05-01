@@ -3,7 +3,7 @@ perform Data Cleaning , EDA etc
 
 **Kaggle**:https://www.kaggle.com/mayukhbaruah
 
-**resources**
+## Resources
 
 *numpy documentation*=https://numpy.org/doc/stable/reference/generated/numpy.sort.html
 
