@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis-
-perform Data Cleaning , EDA etc
+perform Data Cleaning , EDA , feature engineering  etc
 
 **Kaggle**:https://www.kaggle.com/mayukhbaruah
 
