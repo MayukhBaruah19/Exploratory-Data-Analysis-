@@ -1,11 +1,14 @@
 # Exploratory-Data-Analysis-
 perform Data Cleaning , EDA , feature engineering  etc
 
-**Kaggle**:https://www.kaggle.com/mayukhbaruah
+## Other
+[Kaggle](https://www.kaggle.com/mayukhbaruah)
 
 ## Resources
+1. [Numpy Documentation](https://numpy.org/doc/stable/reference/generated/numpy.sort.html
+) <br>
+2. [Pandas Documentation](https://pandas.pydata.org/pandas-docs/version/0.19/generated/pandas.DataFrame.sort.html)
 
-*numpy documentation*=https://numpy.org/doc/stable/reference/generated/numpy.sort.html
 
-*Pandas documentation*=https://pandas.pydata.org/pandas-docs/version/0.19/generated/pandas.DataFrame.sort.html
+
 
