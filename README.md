@@ -1,5 +1,6 @@
 # Exploratory-Data-Analysis-
-perform Data Cleaning , EDA , feature engineering  etc
+**Thia repository involves, Feature Transformation ,Feature Costruction <br>
+Feature Selection Feature Extruation**
 
 ## Other
 [Kaggle](https://www.kaggle.com/mayukhbaruah)
