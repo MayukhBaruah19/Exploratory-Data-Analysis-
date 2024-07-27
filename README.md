@@ -1,6 +1,6 @@
 # Exploratory-Data-Analysis-
 **Thia repository involves, Feature Transformation ,Feature Costruction <br>
-Feature Selection Feature Extruation**
+Feature Selection Feature Extration**
 
 ## Other
 [Kaggle](https://www.kaggle.com/mayukhbaruah)
